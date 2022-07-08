@@ -1,5 +1,5 @@
 from minesweeper import *
-from minesweeper_solver.solver import *
+from solver import *
 
 
 def solve(board, initial, max_depth=1, remainder_cutoff=0):
