@@ -1,0 +1,4 @@
+pygame~=2.1.2
+networkx~=2.8.4
+bidict~=0.22.0
+python-sat~=0.1.7.dev18
