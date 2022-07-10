@@ -5,7 +5,7 @@
 
 * The cells all start in a "hidden" state. When "revealed," a cell will tell the player how many of its neighbors are mines.
 
-* The objective is to reveal all "safe" cells while not revealed any mines.
+* The objective is to reveal all "safe" cells while not revealing any mines.
 
 * Not all boards are solvable: it may be impossible to determine whether or not a cell is a mine, so guessing can be necessary.
 
