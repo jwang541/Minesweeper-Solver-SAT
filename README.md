@@ -64,7 +64,7 @@ This project uses Python 3 and several external libraries (pysat, networkx, bidi
 ## Execution:
 Either clone this repository using:
 
-    git clone https://github.com/jwang541/Minesweeper-SAT.git
+    git clone https://github.com/jwang541/Minesweeper-Solver-SAT.git
     
  __OR__ download the repository as a zip and extracting its contents. 
  
